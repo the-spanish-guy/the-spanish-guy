@@ -1,4 +1,6 @@
-# Hi, I'm Luis | aka _the-spanish-guy_
+<center>
+  <h1>Hi, I'm Luis | aka _the-spanish-guy_</h1>
+</center>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lemp/" target="_blank">
