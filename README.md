@@ -22,7 +22,7 @@
 Não sei o que escrever, talvez do que gosto sla, uma hora eu escrevo
 
 # :hammer_and_wrench: Stack
-Atualmente trabalho com a stack
+Atualmente trabalho com a seguinte stack
 
 <code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/mongodb.svg"></code>
 <code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/nodedotjs.svg"></code>
