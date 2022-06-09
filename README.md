@@ -18,6 +18,18 @@
   </a>
 </p>
 
+Não sei o que escrever, talvez do que gosto sla, uma hora eu escrevo
+
+Atualmente trabalho com a stack
+
+<code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/mongodb.svg"></code>
+<code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/nodedotjs.svg"></code>
+<code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/typescript.svg"></code>
+<code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/amazonaws.svg"></code>
+<code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/nextdotjs.svg"></code>
+<code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/react.svg"></code>
+<code><img height="20" src="https://unpkg.com/simple-icons@v7/icons/tailwindcss.svg"></code>
+
 <!--
 **the-spanish-guy/the-spanish-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
