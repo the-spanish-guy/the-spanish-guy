@@ -2,26 +2,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lemp/" target="_blank">
-    <img src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://www.github.com/the-spanish-guy" target="_blank">
-    <img src="https://unpkg.com/simple-icons@v7/icons/github.svg" width="30" height="30" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
   <a href="https://dev.to/thespanishguy" target="_blank">
-    <img src="https://unpkg.com/simple-icons@v7/icons/devdotto.svg" width="30" height="30" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
   
   <a href="https://discordapp.com/users/378336214916268032" target="_blank">
-    <img src="https://unpkg.com/simple-icons@v7/icons/discord.svg" width="30" height="30" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 # :alien: Sobre mim
+
 Não sei o que escrever, talvez do que gosto sla, uma hora eu escrevo
 
 # :hammer_and_wrench: Stack
+
 Atualmente trabalho com a seguinte stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -34,12 +36,11 @@ Atualmente trabalho com a seguinte stack
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 # :headphones: Music
+
 > O que escuto enquanto estou codando
 
 [![https://spotify-github-profile.vercel.app/api/view.svg?uid=12183024946&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=12183024946&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12183024946&redirect=true)
-
 
 <!--
 **the-spanish-guy/the-spanish-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,18 +57,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ---
+
 Made by [the spanish guy](https://github.com/the-spanish-guy) with :black_heart:
 
 ```
           ／＞　 フ
-         | 　_　_| 
-       ／` ミ__^ノ 
+         | 　_　_|
+       ／` ミ__^ノ
       /　　　　 |
      /　 ヽ　　 ﾉ           ╱|、
-    /　　 |　|　|         (˚ˎ 。7  
-／￣|　　 |　|　|          |、˜〵          
+    /　　 |　|　|         (˚ˎ 。7
+／￣|　　 |　|　|          |、˜〵
 (￣ヽ＿_  ヽ_)__)         じしˍ,)ノ
 ＼二)
 ```
