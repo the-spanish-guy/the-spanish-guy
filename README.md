@@ -36,6 +36,13 @@ Atualmente trabalho com a seguinte stack
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+# :memo: Artigos
+
+> [!NOTE]
+> As vezes escrevo alguns artigos, e, este é o último que escrevi
+
+[![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=thespanishguy)](https://dev.to/thespanishguy)
+
 # :headphones: Music
 
 > O que escuto enquanto estou codando
