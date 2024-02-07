@@ -55,3 +55,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+---
+Made by [the spanish guy](https://github.com/the-spanish-guy) with :black_heart:
+
+```
+          ／＞　 フ
+         | 　_　_| 
+       ／` ミ__^ノ 
+      /　　　　 |
+     /　 ヽ　　 ﾉ           ╱|、
+    /　　 |　|　|         (˚ˎ 。7  
+／￣|　　 |　|　|          |、˜〵          
+(￣ヽ＿_  ヽ_)__)         じしˍ,)ノ
+＼二)
+```
