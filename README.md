@@ -47,7 +47,7 @@ Atualmente trabalho com a seguinte stack
 
 > O que escuto enquanto estou codando
 
-[![https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12183024946&redirect=true](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12183024946&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=12183024946&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12183024946&cover_image=true&theme=compact&show_offline=true&background_color=000000&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12183024946&redirect=true)
 
 <!--
 **the-spanish-guy/the-spanish-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
